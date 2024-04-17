@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Sans-serif;
+}
+
+h2{
+  text-transform: uppercase;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.Class{
+  font-weight: bold;
+}
+
+article{
+  margin-bottom: 20px;
+}
+
